@@ -1,2 +1,7 @@
-![LiteCat's GitHub stats](https://github-readme-stats.vercel.app/api?username=LiteCat0905&show_icons=true&count_private=true)
-[![LiteCat's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=LiteCat0905&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### 你好，👋，我是LiteCat
+### 现在是一名初中生，正在学习前后端Vue3开发
+
+----
+
+![LiteCat's GitHub stats](https://github-readme-stats.vercel.app/api?username=LiteCat0905&show_icons=true&count_private=true&locale=cn)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LiteCat0905&layout=compact&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
