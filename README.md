@@ -1,1 +1,2 @@
-![](https://github.com/LiTTTTT87/LiTTTTT87/raw/main/T.png)
+![](https://github.com/LiteCat0905/LiteCat0905/raw/main/T.png)
+[![LiteCat's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=LiteCat0905&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
