@@ -3,6 +3,12 @@
 ![](https://raw.githubusercontent.com/LiteCat0905/LiteCat0905/main/event-2.gif)
 ![](https://raw.githubusercontent.com/LiteCat0905/LiteCat0905/main/profile-snake-contrib/github-contribution-grid-snake.svg)
 ----
+### 联系我的方法：
+- QQ: 961274111
+- MAIL: 
+  - 961274111@qq.com (回复迅速)
+  - LiTTTTT87@hotmail.com
+----
 ### 正在使用的工具和编程语言:
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
