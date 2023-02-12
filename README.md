@@ -1,5 +1,5 @@
 ### 你好，👋，我是LiteCat
-### 现在是一名初中生，正在学习前后端Vue3开发
+### 现在是一名初中生，正在学习前后端Vue3开发，还在做一个机器人🤔
 ![](https://raw.githubusercontent.com/LiteCat0905/LiteCat0905/main/event-2.gif)
 ![](https://raw.githubusercontent.com/LiteCat0905/LiteCat0905/main/profile-snake-contrib/github-contribution-grid-snake.svg)
 ----
@@ -20,4 +20,5 @@
 ----
 
 ![LiteCat's GitHub stats](https://github-readme-stats.vercel.app/api?username=LiteCat0905&show_icons=true&count_private=true&locale=cn)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LiteCat0905&layout=compact&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
