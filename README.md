@@ -1,5 +1,6 @@
 ### 你好，👋，我是LiteCat
 ### 现在是一名初中生，正在学习前后端Vue3开发，还在做一个机器人🤔
+### 23223 ： 又开始学Java开发插件了🤔
 ![](https://raw.githubusercontent.com/LiteCat0905/LiteCat0905/main/event-2.gif)
 ![](https://raw.githubusercontent.com/LiteCat0905/LiteCat0905/main/profile-snake-contrib/github-contribution-grid-snake.svg)
 ----
