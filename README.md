@@ -1,14 +1,15 @@
 ### 你好，👋，我是LiteCat
-### 现在是一名初中生，正在学习前后端Vue3开发[做了]，还在做一个机器人💩[失败了]
-### 23223 ： 又开始学Java开发插件了[有进展23703]💨
-### 23407 : 开始做游戏了[开始做了]🎮
+### 现在是一名中国人类，这里有一些我想做的事：
+### Vue3开发[做魔障了]，还在做一个机器人💩[做完了，影响我收信息 跳了]
+### 23 2 23 ： 又开始学Java开发插件了[有进展23703]💨
+### 23 4 07 : 开始做游戏了——世界观写完了。
 ![](https://raw.githubusercontent.com/LiteCat0905/LiteCat0905/main/event-2.gif)
 ![](https://raw.githubusercontent.com/LiteCat0905/LiteCat0905/main/profile-snake-contrib/github-contribution-grid-snake.svg)
 ----
 ### 联系我的方法：
 - QQ: 961274111
 - MAIL: 
-  - 961274111@qq.com (回复迅速)
+  - 961274111@qq.com (回复迅速，你都知道我qq了为什么不加我qq)
   - LiTTTTT87@hotmail.com
 ----
 ### 正在使用的工具和编程语言:
