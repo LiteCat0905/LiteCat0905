@@ -1,8 +1,5 @@
 ### 你好，👋，我是LiteCat
-### 现在是一名中国人类，这里有一些我想做的事：
-### Vue3开发[做魔障了]，还在做一个机器人💩[做完了，影响我收信息 跳了]
-### 23 2 23 ： 又开始学Java开发插件了[有进展23703]💨
-### 23 4 07 : 开始做游戏了——世界观写完了。
+> 已阵亡
 ![](https://raw.githubusercontent.com/LiteCat0905/LiteCat0905/main/event-2.gif)
 ![](https://raw.githubusercontent.com/LiteCat0905/LiteCat0905/main/profile-snake-contrib/github-contribution-grid-snake.svg)
 ----
