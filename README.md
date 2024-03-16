@@ -3,7 +3,6 @@
 > 已阵亡
  
 ![](https://raw.githubusercontent.com/LiteCat0905/LiteCat0905/main/event-2.gif)
-![](https://raw.githubusercontent.com/LiteCat0905/LiteCat0905/main/profile-snake-contrib/github-contribution-grid-snake.svg)
 ----
 ### 联系我的方法：
 - QQ: 961274111
